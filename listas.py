@@ -7,4 +7,5 @@ while x < 5:
     soma += notas[x]
     x += 1
 print ("Média: %5.2f" % (soma/x))
-      
+
+print "Fim do Programa"      
