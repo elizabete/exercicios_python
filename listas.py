@@ -8,4 +8,4 @@ while x < 5:
     x += 1
 print ("Média: %5.2f" % (soma/x))
 
-print "Fim do Programa"      
+print ("Fim do Programa")      
